@@ -57,7 +57,7 @@ cite {
 	color:#fff; 
 }
 
-#mikucoloring! {
+#mikucoloring {
 	color:#66CCCC;
 }
 
@@ -351,6 +351,10 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 	padding: 10px; 
 	margin: 0; 
 	list-style: none;
+}
+
+#mikutext{
+	float:right;
 }
 
 .sb_link li { 
