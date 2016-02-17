@@ -63,6 +63,7 @@ cite {
 
 #mikucoloring {
 	color:#66CCCC !important;
+	float: left;
 }
 
 cite a, cite a:link, cite a:visited  { 
