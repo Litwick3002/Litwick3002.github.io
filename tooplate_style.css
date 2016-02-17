@@ -58,7 +58,7 @@ cite {
 }
 
 #mikucoloring {
-	color:#66CCCC;
+	color:#66CCCC !important;
 }
 
 cite a, cite a:link, cite a:visited  { 
