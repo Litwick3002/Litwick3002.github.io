@@ -52,7 +52,7 @@ blockquote {
 }
 
 #mikutext {
-	color:#66CCCC;
+	color:#66CCCC !important;
 	float: left;
 }
 
