@@ -103,8 +103,6 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 .float_l { float: left }
 .float_r { float: right }
 
-.col_fw_last {padding-left: 100px padding-right: 100px;}
-
 .image_frame { 
 	background: #262424; 
 	border: 1px solid #333232; 
@@ -258,7 +256,9 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 }
 
 .col_fw_last { 
-	padding-bottom: 20px; 
+	padding-bottom: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
 }
 
 .col_w460 { 
