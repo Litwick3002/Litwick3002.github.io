@@ -69,6 +69,7 @@ cite {
 #rinlencoloring {
 	color:#FFFF99 !important;
 	float:left;
+	margin-left: auto;
 }
 
 cite a, cite a:link, cite a:visited  { 
@@ -89,8 +90,12 @@ em {
 	float: center;
 }
 
-.rinlen {
+#rinlen {
 	float:center;
+}
+
+#rinlenimg {
+	margin-right: auto;
 }
 
 h1, h2, h3, h4, h5, h6 { font-weight: normal; 	font-family: Tahoma, Geneva, sans-serif }
