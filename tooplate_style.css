@@ -88,10 +88,12 @@ cite span {
 
 #kaitoandluka {
 	float: left;
+	clear: both;
 }
 
 #meikoandgumi {
 	float: right;
+	clear: both;
 }
 
 em { 
