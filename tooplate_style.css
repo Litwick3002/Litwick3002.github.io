@@ -87,11 +87,13 @@ cite span {
 }
 
 #kaitotext {
-	color: #19198c;
+	color: #19198c !important;
+	float: left;
 }
 
 #lukatext {
-	color: #ffa2ed;
+	color: #ffa2ed !important;
+	float: left;
 }
 
 #kaitoandluka {
