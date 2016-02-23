@@ -86,6 +86,14 @@ cite span {
 	color: white;
 }
 
+#kaitotext {
+	color: #19198c;
+}
+
+#lukatext {
+	color: #ffa2ed;
+}
+
 #kaitoandluka {
 	float: left;
 	clear: both;
