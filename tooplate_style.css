@@ -86,6 +86,14 @@ cite span {
 	color: white;
 }
 
+#kaitoandluka {
+	float: left;
+}
+
+#meikoandgumi {
+	float: right;
+}
+
 em { 
 	color: #fff; 
 }
