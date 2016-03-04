@@ -736,12 +736,12 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 	width: 960px;
 	padding: 30px 10px 15px;	
 	margin: 0 auto;
-	color: #876926;
+	color: #ffffff;
 }
 
 #tooplate_footer h5 { 
 	margin-bottom: 30px; 
-	color: #b68e34; 
+	color: #ffffff; 
 }
 
 .footer_link { 
@@ -750,15 +750,19 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 	list-style: none; 
 }
 
+#othervocaloidstext {
+	color: #ffffff;
+}
+
 .footer_link li { 
-	border-bottom: 1px dotted #876926; 
+	border-bottom: 1px dotted #ffffff; 
 	color: #5f4712; 
 	padding-bottom: 5px; 
 	margin-bottom: 5px; font-size: 11px;	 
 }
 
 .footer_link li a { 
-	color: #876926; 
+	color: #ffffff; 
 }
 
 .footer_link li .social { 
