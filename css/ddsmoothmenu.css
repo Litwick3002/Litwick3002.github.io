@@ -77,19 +77,9 @@ top: 0;
 	background: none;
 }
 
-.ddsmoothmenu ul li ul li a.selected, .ddsmoothmenu ul li ul li a:hover  { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
-	position: relative;
-	color: #b68e34;
-	background: url(../images/tooplate_menu_hr.png) no-repeat right
+
 }
-.ddsmoothmenu ul li ul li a.selected span, .ddsmoothmenu ul li ul li a:hover span {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 2px;
-	height: 27px;
-	background: url(../images/tooplate_menu_hl.png) no-repeat;
-}
+
 
 /* Holly Hack for IE \*/
 * html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
