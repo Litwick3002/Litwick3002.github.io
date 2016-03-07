@@ -199,7 +199,7 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 #tooplate_header {
 	width: 100%;
 	height: 180px;
-	background: url(images/tooplate_header.jpg)
+	background: black;
 }
 
 #tooplate_top {
