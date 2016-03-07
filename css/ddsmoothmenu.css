@@ -42,14 +42,6 @@ display: inline-block;
 	color: #ffffff;
 	background: url(../images/tooplate_menu_hr.png) no-repeat right
 }
-.ddsmoothmenu ul li a.selected span, .ddsmoothmenu ul li a:hover span {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 2px;
-	height: 27px;
-	background: url(../images/tooplate_menu_hl.png) no-repeat;
-}
 	
 /*1st sub level menu*/
 .ddsmoothmenu ul li ul{
