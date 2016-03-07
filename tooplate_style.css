@@ -70,6 +70,12 @@ cite {
 	color: #FFB6C1;
 	padding-left: 100px;
 	padding-right: 100px;
+	float: left;
+}
+
+#ia {
+	padding-left: 200px;
+	padding-right: 100px;
 }
 
 #rincoloring {
