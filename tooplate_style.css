@@ -243,6 +243,10 @@ h1 {
 	padding: 0;
 }
 
+#vocaloidimg {
+	width: 851px;
+}
+
 #tooplate_login .txt_field {
 	float: left;
 	display: block;
