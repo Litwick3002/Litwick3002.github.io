@@ -325,9 +325,14 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 	padding-right: 300px;
 }
 
-#rinlen, #meltdown {
+#rinlen {
 	padding-left: 200px;
 	padding-right: 100px;
+}
+
+#meltdown {
+	padding-left: 200px;
+	padding-right: 200px;
 }
 
 .col_w460 { 
