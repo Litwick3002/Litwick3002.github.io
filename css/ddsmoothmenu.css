@@ -37,11 +37,6 @@
 display: inline-block;
 }
 
-.ddsmoothmenu ul li a.selected, .ddsmoothmenu ul li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
-	position: relative;
-	color: #ffffff;
-	background: url(../images/tooplate_menu_hr.png) no-repeat right
-}
 	
 /*1st sub level menu*/
 .ddsmoothmenu ul li ul{
