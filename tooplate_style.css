@@ -294,7 +294,8 @@ h1 {
 }
 
 #tooplate_menu { 
-	float: right; 
+	padding-right: 100px;
+	padding-left: 100px;
 }
 
 #tooplate_fw { 
