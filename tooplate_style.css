@@ -120,7 +120,7 @@ em {
 	color: #fff; 
 }
 
-.miku {
+.miku, #rollinggirl {
 	float: center;
 }
 
@@ -315,7 +315,7 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 	padding-bottom: 20px;
 }
 
-#miku {
+#miku, #rollinggirl {
 	padding-left: 200px;
 	padding-right: 100px;
 }
@@ -768,6 +768,7 @@ h6 { font-size: 13px; margin: 0 0 5px; padding: 0; }
 #othervocaloidstext {
 	color: #ffffff;
 }
+
 
 .footer_link li { 
 	border-bottom: 1px dotted #ffffff; 
