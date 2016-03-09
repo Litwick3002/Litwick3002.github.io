@@ -357,9 +357,14 @@ h1 {
 	padding-left: 155px;
 }
 
-#rinlen, #playlisttwo {
+#rinlen {
 	padding-left: 200px;
 	padding-right: 100px;
+}
+
+#playlisttwo {
+	padding-left: 200px;
+	padding-right: 200px;
 }
 
 .col_w460 { 
