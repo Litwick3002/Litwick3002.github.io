@@ -347,7 +347,7 @@ h1 {
 	padding-right: 50px;
 }
 
-#othervocaloids, #sixtrillion, #songs, #gumiimg, #playlisttwo  {
+#othervocaloids, #sixtrillion, #songs, #gumiimg {
 	padding-left: 200px;
 	padding-right: 200px;
 }
@@ -357,7 +357,7 @@ h1 {
 	padding-left: 155px;
 }
 
-#rinlen {
+#rinlen, #playlisttwo {
 	padding-left: 200px;
 	padding-right: 100px;
 }
