@@ -341,7 +341,7 @@ h1 {
 	padding-bottom: 20px;
 }
 
-#miku, #rollinggirl, #gumiimg, #playlist {
+#miku, #rollinggirl, #gumiimg {
 	padding-left: 200px;
 	padding-right: 100px;
 }
@@ -351,7 +351,7 @@ h1 {
 	padding-right: 50px;
 }
 
-#othervocaloids, #sixtrillion, #songs {
+#othervocaloids, #sixtrillion, #songs, #playlist {
 	padding-left: 200px;
 	padding-right: 200px;
 }
