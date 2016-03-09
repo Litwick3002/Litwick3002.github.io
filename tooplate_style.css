@@ -347,12 +347,12 @@ h1 {
 	padding-right: 50px;
 }
 
-#othervocaloids, #sixtrillion, #songs, #gumiimg {
+#othervocaloids, #sixtrillion, #songs, #gumiimg, #playlisttwo  {
 	padding-left: 200px;
 	padding-right: 200px;
 }
 
-#playlist, #playlisttwo {
+#playlist {
 	padding-right: 225px;
 	padding-left: 155px;
 }
