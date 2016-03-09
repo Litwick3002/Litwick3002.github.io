@@ -298,7 +298,8 @@ h1 {
 }
 
 #tooplate_menu { 
-
+	padding-right: 50px;
+	padding-left: 50px;
 }
 
 #tooplate_fw { 
