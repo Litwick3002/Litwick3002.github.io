@@ -307,6 +307,7 @@ h1 {
 	border-color: gray;
 	border-width: 4px; 
 	width: 100px;
+	float: right;
 }
 
 #tooplate_fw { 
