@@ -302,6 +302,13 @@ h1 {
 	padding-left: 50px;
 }
 
+#hachune {
+	border-style: solid;
+	border-color: gray;
+	border-width: 4px; 
+	width: 100px;
+}
+
 #tooplate_fw { 
 	width: 960px; 
 	height: 500px; 
