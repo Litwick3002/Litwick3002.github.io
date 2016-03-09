@@ -351,9 +351,13 @@ h1 {
 	padding-right: 50px;
 }
 
-#othervocaloids, #sixtrillion, #songs, #playlist {
+#othervocaloids, #sixtrillion, #songs {
 	padding-left: 200px;
 	padding-right: 200px;
+}
+
+#playlist {
+	padding-right: 250px;
 }
 
 #rinlen {
