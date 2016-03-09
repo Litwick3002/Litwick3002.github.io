@@ -363,6 +363,14 @@ h1 {
 	padding-right: 200px;
 }
 
+#playlist {
+	float: right;
+}
+
+#twitter {
+	float: left;
+}
+
 .col_w460 { 
 	width: 460px; 
 } 
