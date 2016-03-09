@@ -352,10 +352,11 @@ h1 {
 	padding-right: 200px;
 }
 
-#playlist {
+#playlist, #twitter {
 	padding-right: 225px;
 	padding-left: 155px;
 }
+
 
 #rinlen {
 	padding-left: 200px;
