@@ -31,6 +31,7 @@
 	font-weight: 400;
 	outline: none;
 	border: none;
+	text-align: center;
 }
 
 * html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
@@ -69,7 +70,7 @@ top: 0;
 	height: 24px;
 	font-size: 12px;
 	border-top-width: 0;
-	text-align: left;
+	text-align: center;
 	background: none;
 }
 
