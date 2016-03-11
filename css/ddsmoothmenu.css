@@ -30,8 +30,8 @@
 	font-weight: 400;
 	outline: none;
 	border: none;
-	padding-right: 100px;
-	padding-left: 100px;
+	padding-right: 200px;
+	padding-left: 200px;
 
 * html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
 display: inline-block;
