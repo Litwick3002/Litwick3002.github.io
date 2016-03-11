@@ -4,15 +4,15 @@
 
 .ddsmoothmenu ul{
 	z-index:100;
-	margin: 0;
-	padding: 0;
+	margin: 200px;
+	padding: 200px;
 	list-style-type: none;
 }
 
 /*Top level list items*/
 .ddsmoothmenu ul li{
 	position: relative;
-	display: inline	float: left;
+	display: block	float: left;
 }
 
 /*Top level menu link items style*/
