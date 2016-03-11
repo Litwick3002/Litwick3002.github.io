@@ -107,6 +107,7 @@ cite span {
 
 #kaitotext {
 	color: #4c4ca6 !important;
+	float: left;
 }
 
 #lukatext {
@@ -354,6 +355,11 @@ h1 {
 #othervocaloids, #sixtrillion, #songs, #gumiimg {
 	padding-left: 200px;
 	padding-right: 200px;
+}
+
+#othervocaloids {
+	padding-left: 100px;
+	padding-right: 100px;
 }
 
 
