@@ -18,7 +18,7 @@ body {
 a, a:link, a:visited { 
 	color: #70CCFA; 
 	font-weight: normal; 
-	text-decoration: none; 
+	text-decoration: none;
 }
 
 h2, {
@@ -226,6 +226,7 @@ h1 {
 	background: black;
 	text-align: right;
 	padding-bottom: 100px;
+	font-size: 20px;
 }
 
 #tooplate_top {
