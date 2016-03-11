@@ -161,6 +161,10 @@ h1 {
 	font-family: "Times New Roman";
 }
 
+#contactform {
+	text-align: center;
+}
+
 .cleaner { clear: both }
 .h10 { height: 10px }
 .h20 { height: 20px }
