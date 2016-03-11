@@ -12,8 +12,7 @@
 /*Top level list items*/
 .ddsmoothmenu ul li{
 	position: relative;
-	display: inline;
-	float: left;
+	display: inline	float: left;
 }
 
 /*Top level menu link items style*/
@@ -31,8 +30,8 @@
 	font-weight: 400;
 	outline: none;
 	border: none;
-	text-align: center;
-}
+	padding-right: 100px;
+	padding-left: 100px;
 
 * html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
 display: inline-block;
