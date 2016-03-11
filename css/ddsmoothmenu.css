@@ -32,7 +32,6 @@
 	border: none;
 	padding-right: 200px;
 	padding-left: 200px;
-	display: block;
 
 * html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
 display: inline-block;
